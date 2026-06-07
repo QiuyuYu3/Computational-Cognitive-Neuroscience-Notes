@@ -4,6 +4,8 @@ https://shawnrhoadsphd.com/gu-psyc-347/module-03-02_RL-Exercises.html
 
 https://github.com/jeroenvanbaar/Computational_modeling_tutorial
 https://shawnrhoadsphd.com/gu-psyc-347/module-03-02_RL-Exercises.html
+https://www.denoudenlab.org/resources-2
+https://colab.research.google.com/github/denoudenlab/reversal_learning_tutorial/blob/main/RL_tutorial_CompModelling.ipynb
 
 
 # Textbook
@@ -11,11 +13,14 @@ https://shawnrhoadsphd.com/gu-psyc-347/module-03-02_RL-Exercises.html
 # Courses
 https://github.com/computational-psychiatry-course
 https://video.ethz.ch/lectures/d-itet
+https://www.quentinhuys.com/tcpw/events/nathaniel-daw-and-quentin-huys-modelling-behavioural-data/
 
 
 # R package 
 
 https://ccs-lab.github.io/hBayesDM/index.html 
+https://cran.r-project.org/web/packages/brms/vignettes/brms_multivariate.html
+https://paulbuerkner.com/brms/
 
  
 
@@ -27,6 +32,10 @@ https://mc-stan.org/learn-stan/diagnostics-warnings.html
  
 # Statistics
 Van Geen, C., & Gerraty, R. T. (2021). Hierarchical Bayesian models of reinforcement learning: Introduction and comparison to alternative methods. Journal of Mathematical Psychology, 105, 102602. https://doi.org/10.1016/j.jmp.2021.102602
+
+https://bookdown.org/kevin_davisross/bayesian-reasoning-and-methods/hierarchical.html
+https://ourcodingclub.github.io/tutorials/brms/
+https://bayesball.github.io/BOOK/bayesian-multiple-regression-and-logistic-models.html
 
 # Task
 ## Delay Discounting

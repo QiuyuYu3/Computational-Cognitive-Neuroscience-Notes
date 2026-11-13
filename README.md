@@ -1,1 +1,1 @@
-# Reinforcement-Learning-Study-Notes
+# Computational-Cognitive-Neuroscience-Notes

@@ -50,6 +50,14 @@ Daw, Nathaniel (2009). Trial-by-trial data analysis using computational models. 
 
 https://journal.r-project.org/articles/RJ-2018-017/index.html#citation
 
+**Date:** 11/12/2026
+**Topic:** Computational Modeling 05: Adaptation to Fluctuating Intentions of Others
+**Presenter:** Qiuyu Yu
+
+***Required Reading:***
+
+Philippe, R., Janet, R., Khalvati, K., Rao, R. P. N., Lee, D., & Dreher, J.-C. (2024). Neurocomputational mechanisms involved in adaptation to fluctuating intentions of others. Nature Communications, 15, 3189. https://doi.org/10.1038/s41467-024-47491-2
+
 **Date:** TBD
 **Topic:** Iowa Gambling Task
 **Presenter:** Qiuyu Yu
